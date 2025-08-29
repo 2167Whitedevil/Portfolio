@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #1a1a1a; /* Very dark gray */
-    background: #1a1a1a url('./images/hero-background.jpg') no-repeat center center/cover; /* Apply to entire body */
+    background: #1a1a1a url('./hero-background.jpg') no-repeat center center/cover; /* Apply to entire body */
     background-attachment: fixed; /* Keep background fixed when scrolling */
     color: #f0f0f0; /* Off-white for main text */
     line-height: 1.6;
@@ -427,4 +427,5 @@ footer {
         font-size: 2rem;
         margin: 0 10px;
     }
+
 } 
